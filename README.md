@@ -17,9 +17,9 @@ Before starting, ensure you have the following installed and configured:
 - **AWS Cloud Providor**  
 
 ---
-<img width="1241" alt="1" src="https://github.com/user-attachments/assets/cc1b09f4-26d8-43f7-b8a4-0a0bedf330fa" />
+<img width="1241" alt="nodejs-docker-monitoring" src="https://github.com/user-attachments/assets/9a4a54c8-e9f5-4bd3-b9fe-a6de83cf2dfb" />
 
-<img width="1240" alt="2" src="https://github.com/user-attachments/assets/d8436c88-c148-46ed-9ac7-9a0eb1ec59d7" />
+<img width="1240" alt="nodejs-k8s-monitoring" src="https://github.com/user-attachments/assets/cb8d0da0-24aa-492e-a74a-6027a0b25354" />
 
 ## Steps to Deploy and Monitor the Application  
 
